@@ -10,22 +10,36 @@
   margin: 20px;
 }
 /* bd-2.0 styles */
+.Bangladesh-20{
+  padding: 117px 580px 197px 40px;
+ 
+  
+}
 .bd-tittle{
   background-color:#C6E4D6;
-  width: 1280px;
-  margin: 0 160px;
+  display: flex;
+  margin: 74px 180px;
   justify-content: space-between;
-  border-radius: 10px;
-  padding: 117px 60px;
+
+  
 }
-div img{
-  justify-content: space-between;
-}
+
 .btn-primary{
   background-color: #006A50;
   color: white;
   padding: 17px 34px;
-  font-size: 20px;
+  font-size: 18px;
   border-radius: 5px;
   border: none;
+  position:;
+}
+.bd-state{
+  width: 940px;
+  padding: 80px 40px;
+}
+img{
+  width: 474px;
+}
+.bd-2nd-tittle{
+  margin: 24px 160px;
 }
