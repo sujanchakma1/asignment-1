@@ -31,15 +31,68 @@
   font-size: 18px;
   border-radius: 5px;
   border: none;
-  position:;
 }
 .bd-state{
-  width: 940px;
-  padding: 80px 40px;
+  padding: 80px;
+  width: 470px;
+  
 }
-img{
-  width: 474px;
-}
+/* bd 2nd styles */
 .bd-2nd-tittle{
   margin: 24px 160px;
+}
+.skills{
+  display: flex;
+  padding: 32px;
+  gap: 24px;
+}
+.image{
+  width: 80px;
+  
+}
+.image-2{
+  width: 80px;
+}
+.image-3{
+  width: 80px;
+}
+.skill{
+  padding: 32px;
+}
+.skill-1{
+  background-color: #dce0e6;
+  border-radius: 15px;
+}
+.skill-2{
+  background-color: #C6E4D6;
+  border-radius: 15px;
+}
+.skill-3{
+  background-color: #e7c785;
+  border-radius: 15px;
+}
+/* bottum styles */
+.learn{
+  background-color:cornflowerblue;
+  color: white;
+  border-radius: 5px;
+  padding: 15px 11px;
+  font-size: 15px;
+  border: none;
+}
+.learn-2{
+  background-color:rgb(101, 171, 101);
+  color: white;
+  border-radius: 5px;
+  padding: 15px 11px;
+  font-size: 15px;
+  border: none;
+}
+.learn-3{
+  background-color:#6d6549;
+  color: white;
+  border-radius: 5px;
+  padding: 15px 11px;
+  font-size: 15px;
+  border: none;
 }
