@@ -35,6 +35,8 @@
   font-size: 18px;
   border-radius: 5px;
   border: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 .bd-state{
   padding: 80px;
@@ -90,6 +92,8 @@
   padding: 15px 11px;
   font-size: 15px;
   border: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 .learn-2{
   background-color:rgb(101, 171, 101);
@@ -98,6 +102,8 @@
   padding: 15px 11px;
   font-size: 15px;
   border: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 .learn-3{
   background-color:#6d6549;
@@ -106,6 +112,8 @@
   padding: 15px 11px;
   font-size: 15px;
   border: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 .yunus-details{
   background-image: url(assets/quote-bg.png);
@@ -116,3 +124,27 @@
   margin: 32px 160px;
   
 }  
+/* news styles */
+.News-title{
+  padding: 0 160px;
+  display: block;
+}
+.Read-more{
+  background-color: #006A50;
+}
+.Satellite{
+  padding: 32px 160px;
+  display: flex;
+  align-items: center;
+}
+.satelite-profile{
+  border-radius: 25px;
+  width: 400px;
+  height: 306px;
+}
+.Satellite-details{
+   padding-left: 32px;
+}
+.Satellite-details-2{
+  padding-right: 32px;
+}
