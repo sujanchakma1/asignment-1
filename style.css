@@ -23,7 +23,11 @@
 
   
 }
-
+.BD-20{
+  color: #474747;
+  font-size: 25px;
+  border: 0 160px;
+}
 .btn-primary{
   background-color: #006A50;
   color: white;
@@ -39,12 +43,19 @@
 }
 /* bd 2nd styles */
 .bd-2nd-tittle{
-  margin: 24px 160px;
+  margin: 32px 160px;
+}
+.bd-2nd{
+  color: #474747;
+}
+.nd-tittle{
+  font-size: xx-large;
 }
 .skills{
   display: flex;
   padding: 32px;
   gap: 24px;
+  margin: 32px 160px;
 }
 .image{
   width: 80px;
@@ -96,3 +107,12 @@
   font-size: 15px;
   border: none;
 }
+.yunus-details{
+  background-image: url(assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-position: 20px 40px;
+  padding: 48px 24px;
+  margin: 32px 160px;
+  
+}  
