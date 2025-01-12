@@ -136,12 +136,13 @@
   background-color: #006A50;
 }
 .Satellite{
-  padding: 32px 160px;
+  padding: 48px;
   display: flex;
   align-items: center;
-  box-shadow:0 4px 4px 0px rgba(255, 255, 255, 1);
-  overflow: hidden;
+  box-shadow:0 4px 4px 0px rgb(203, 181, 181);
   border-radius: 10px;
+  margin: 24px 160px;
+
 }
 .satelite-profile{
   border-radius: 25px;
