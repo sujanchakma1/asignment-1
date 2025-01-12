@@ -219,3 +219,17 @@
   height: 180px;
   height: 90px;
 }
+/* footer styles */
+.footer{
+  text-align: center;
+  margin: 50px 50px;
+  padding: 50px 690px;
+}
+.footer-title{
+  font-weight: bold;
+  font-size: 32px;
+}
+.icon{
+  padding-left: 24px;
+  margin-top: 32px;
+}
