@@ -18,10 +18,9 @@
 .bd-tittle{
   background-color:#C6E4D6;
   display: flex;
-  margin: 74px 180px;
   justify-content: space-between;
-
-  
+  margin: 74px 180px;
+  border-radius: 24px;
 }
 .BD-20{
   color: #474747;
@@ -38,10 +37,14 @@
   text-decoration: none;
   cursor: pointer;
 }
-.bd-state{
+.bd-tittle img{
   padding: 80px;
-  width: 470px;
-  
+  max-width: 475px;
+
+}
+.New{
+  color: #0E0E0E;
+  font-size: 100px;
 }
 /* bd 2nd styles */
 .bd-2nd-tittle{
@@ -136,6 +139,9 @@
   padding: 32px 160px;
   display: flex;
   align-items: center;
+  box-shadow:0 4px 4px 0px rgba(255, 255, 255, 1);
+  overflow: hidden;
+  border-radius: 10px;
 }
 .satelite-profile{
   border-radius: 25px;
