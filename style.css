@@ -139,7 +139,7 @@
   padding: 48px;
   display: flex;
   align-items: center;
-  box-shadow:0 4px 4px 0px rgb(203, 181, 181);
+  box-shadow:0 4px 4px 0 rgb(225, 210, 210);
   border-radius: 10px;
   margin: 24px 160px;
 
@@ -154,4 +154,38 @@
 }
 .Satellite-details-2{
   padding-right: 32px;
+}
+/* Donate styles */
+.Donate{
+  text-align: center;
+
+}
+.Taka{
+  width: 240px;
+  height: 140px;
+  padding: 40px 40px;
+  border-radius: 16px;
+  background-color: white;
+  color:black;
+  font-size: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 24px;
+  border-color: rgba(14, 14, 14, 0.15);
+  
+}
+.taka-200{
+  background-color: #C6E4D6;
+
+}
+.Taka-1:hover{
+  background-color:red;
+}
+.Other{
+  width: 1032px;
+  height: 65px;
+  text-align: center;
+  font-size: 20px;
+  margin: 40px 20px;
+  border-color: rgba(14, 14, 14, 0.15);
 }
