@@ -93,7 +93,6 @@
   color: white;
   border-radius: 5px;
   padding: 15px 11px;
-  font-size: 15px;
   border: none;
   text-decoration: none;
   cursor: pointer;
@@ -103,17 +102,18 @@
   color: white;
   border-radius: 5px;
   padding: 15px 11px;
-  font-size: 15px;
   border: none;
   text-decoration: none;
   cursor: pointer;
+  width: 151px;
+  height: 56px;
+  font-size: 18px;
 }
 .learn-3{
   background-color:#6d6549;
   color: white;
   border-radius: 5px;
   padding: 15px 11px;
-  font-size: 15px;
   border: none;
   text-decoration: none;
   cursor: pointer;
@@ -160,6 +160,10 @@
   text-align: center;
 
 }
+.Donate-tittle{
+  font-weight: bold;
+  font-size: 40px;
+}
 .Taka{
   width: 240px;
   height: 140px;
@@ -168,7 +172,6 @@
   background-color: white;
   color:black;
   font-size: 30px;
-  font-weight: 600;
   cursor: pointer;
   margin: 24px;
   border-color: rgba(14, 14, 14, 0.15);
@@ -188,4 +191,31 @@
   font-size: 20px;
   margin: 40px 20px;
   border-color: rgba(14, 14, 14, 0.15);
+}
+/* Subscribe styles */
+.Subscribe{
+  text-align: center;
+  margin: 80px 160px;
+  background-color: #a8dbce;
+  border-radius: 24px;
+  padding: 80px 100px;
+}
+.Subscribe-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+.search-holder{
+  width: 600px;
+  height: 55px;
+  padding: 18px  40px ;
+  margin: 24px 0px;
+  font-size: 16px;
+  border-color: rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  margin-right: 0px;
+}
+.Subscribe-button{
+  margin-left: 0px;
+  height: 180px;
+  height: 90px;
 }
